@@ -1,0 +1,23 @@
+{
+  "name": "script_customerio",
+  "version": "1.0.0",
+  "description": "Script Personalizado para exportar contactos a customerio mediante un json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@vdsancheza",
+  "license": "MIT",
+  "dependencies": {
+    "customerio-node": "^0.2.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vdsancheza/customerio-script.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vdsancheza/customerio-script/issues"
+  },
+  "homepage": "https://github.com/vdsancheza/customerio-script#readme"
+}
