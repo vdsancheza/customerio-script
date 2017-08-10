@@ -4,7 +4,7 @@
 // Configuracion 
 var siteId = 'yourSITEID';
 var appKey = 'yourappKey';
-var jsonName = 'name.json';
+var jsonName = 'ap.json';
 
 
 

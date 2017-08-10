@@ -4,7 +4,7 @@
         "created_at": 1495843200,
         "first_name": "Natacha ",
         "last_name": "Osorio Torres",
-        "phone": 000000000,
+        "phone": 1234567890,
         "email": "test1@gmail.com",
         "comuna": "QUINTA NORMAL",
         "pickup_products": "\n1 Ropero\n1 escritorio\n1 rack de tv\n2 TV led\nRopa de Mujer\n1 sillòn de 3 cuerpos\n2 sillones personales\n1 cama\n1 librero grande",
@@ -17,7 +17,7 @@
         "id": "test2@gmail.com",
         "created_at": 1493251200,
         "first_name": "Ricardo Ruiz",
-        "phone": 000000000,
+        "phone": 1234567890,
         "email": "test2@gmail.com",
         "pickup_products": "\nPs3 12gb 16 Juegos\nhttps://articulo.mercadolibre.cl/MLC-444793978-ps3-12gb-16-juegos-_JM",
         "score_tec": 10,
@@ -31,7 +31,7 @@
         "id": "test@hotmail.cl",
         "created_at": 1499990400,
         "first_name": "Fabiola ",
-        "phone": 000000000,
+        "phone": 1234567890,
         "email": "test3@hotmail.cl",
         "comuna": "MACUL",
         "pickup_products": "\nVestidos bellos- poleras-pantalones\n\nZapatoa 3 pares- chaquetas.\n",
@@ -42,5 +42,4 @@
         "click_score": 1,
         "open_score": 2
     }
-
 ]
